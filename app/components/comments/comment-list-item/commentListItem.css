@@ -1,0 +1,13 @@
+.comment-list-item {
+  font-size: 1.5rem;
+  margin-bottom: 4rem;
+  background-color: #f7f7f7;
+}
+
+.comment-list-item__button {
+  background-color: none;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--color-blue);
+  border: none;
+}

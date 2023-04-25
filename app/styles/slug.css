@@ -1,0 +1,40 @@
+.slug {
+  width: 70%;
+  min-height: 50vh;
+  padding: 1rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  background-color: var(--color-white);
+  margin-top: 3rem;
+  gap: 1rem;
+}
+
+.slug__author span {
+  font-size: 1.2rem;
+  color: var(--color-dark-grey);
+  margin-right: 1rem;
+}
+
+.slug__title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--color-dark-black);
+}
+
+.slug__comments {
+  margin-top: 3rem;
+}
+
+.slug__comments span {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--color-dark-grey);
+  margin-right: 0.8rem;
+}
+
+.slug a {
+  font-size: 1.2rem;
+}

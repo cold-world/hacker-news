@@ -1,0 +1,36 @@
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+
+html {
+  font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+  box-sizing: border-box;
+  font-family: sans-serif, Arial, Helvetica;
+  background-color: var(--color-grey)
+}
+
+:root {
+  --color-grey: #dae0e6;
+  --color-middle-grey: #9F9F9F;
+  --color-dark-grey: #2E2F30;
+  --color-white: #ffffff;
+  --color-black: #1c1c1c;
+  --color-blue: #0079d3;
+  --color-orange: #FF4500;
+}

@@ -1,0 +1,15 @@
+.header {
+  background-color: var(--color-white);
+  padding: 1.5rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header button:last-of-type {
+  margin-left: 1rem;
+}
+
+.header__logo {
+  font-size: 2rem;
+}
