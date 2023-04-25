@@ -3,7 +3,7 @@ Hacker-news.
 
 React, Remix, Typescript.
 
-Main goal -> create fullstack app.
+Main goal -> build fullstack app.
 * * *
 
 Features ->
@@ -14,7 +14,7 @@ Features ->
 * * *
 ### [Demo](https://hacker-news-kappa-seven.vercel.app/)
 
-![Alt Text](https://ibb.co/4gn1r3t)
+![Alt Text](https://i.ibb.co/M5xB0QS/Screenshot-2023-04-25-120329.jpg)
 
 * * *
 
