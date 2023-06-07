@@ -9,7 +9,7 @@ Main goal -> build fullstack app.
 Features ->
 
 1. Get stories and comments from API.
-2. Revalidation data every 1 minute or manually by click on a button.
+2. Data revalidation every 1 minute or manually by click on a button.
 
 * * *
 ### [Demo](https://hacker-news-kappa-seven.vercel.app/)
